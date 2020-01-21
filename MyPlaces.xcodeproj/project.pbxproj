@@ -18,6 +18,7 @@
 		B1F52EB923C0A9810031CB62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1F52EB823C0A9810031CB62 /* Assets.xcassets */; };
 		B1F52EBC23C0A9810031CB62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1F52EBA23C0A9810031CB62 /* LaunchScreen.storyboard */; };
 		B1F52EC423C0AD210031CB62 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F52EC323C0AD210031CB62 /* MainViewController.swift */; };
+		B1F6D77523D08854003F21D3 /* RatingControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1F6D77423D08854003F21D3 /* RatingControl.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B1F52EBB23C0A9810031CB62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1F52EBD23C0A9810031CB62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1F52EC323C0AD210031CB62 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		B1F6D77423D08854003F21D3 /* RatingControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingControl.swift; sourceTree = "<group>"; };
 		C760B3070ECF10291428ABF9 /* Pods-MyPlaces.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyPlaces.release.xcconfig"; path = "Target Support Files/Pods-MyPlaces/Pods-MyPlaces.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -93,6 +95,7 @@
 				B18F9E0523C4CBAB00E4C540 /* PlaceModel.swift */,
 				B152759623CC52B7007D738C /* StorageManager.swift */,
 				B18F9E0323C4C7D900E4C540 /* CustomTableViewCell.swift */,
+				B1F6D77423D08854003F21D3 /* RatingControl.swift */,
 				B1F52EB123C0A97F0031CB62 /* SceneDelegate.swift */,
 				B1F52EB523C0A97F0031CB62 /* Main.storyboard */,
 				B17070CE23C65E1100B56DD0 /* NewPlaceViewController.swift */,
@@ -222,6 +225,7 @@
 				B17070CF23C65E1100B56DD0 /* NewPlaceViewController.swift in Sources */,
 				B1F52EB023C0A97F0031CB62 /* AppDelegate.swift in Sources */,
 				B152759723CC52B7007D738C /* StorageManager.swift in Sources */,
+				B1F6D77523D08854003F21D3 /* RatingControl.swift in Sources */,
 				B18F9E0623C4CBAB00E4C540 /* PlaceModel.swift in Sources */,
 				B18F9E0423C4C7D900E4C540 /* CustomTableViewCell.swift in Sources */,
 				B1F52EB223C0A97F0031CB62 /* SceneDelegate.swift in Sources */,
